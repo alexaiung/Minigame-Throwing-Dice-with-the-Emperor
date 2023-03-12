@@ -41,3 +41,6 @@ The game rules are simple: each player throws four Tali and, based in the result
 
 ## The Script
 Using classes and functions, the game has the feature of playing how much time you want and how many players are interested. That means that aren't singular matches, but they are played how much time wanted and while the money of the players is still available. They decide how much they wanna put in the game and, if the money is over, they can add more, allowing them to do rematches.
+
+## How it was played
+Besides the fact that this game were played as a generic betting game - one of the favourite of the emperor Augustus! -, it could also be played as a drinking game! In that case, the player to first roll a Venus would be the arbiter and the master of drinking, preparating the ratio of water to wine. Besides that, the game were could be used for deciding any matters, specially those associated with the goddess Venus, ruler of all pleasurable things. Have fun!
