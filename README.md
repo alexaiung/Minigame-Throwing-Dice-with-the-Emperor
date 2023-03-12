@@ -1,4 +1,4 @@
-# Mini-game made in Python: throwing dice with the emperor
+# 🎲 Mini-game made in Python: throwing dice with the emperor 🎲
 
 ## Requisites
 Python is the only requisite. It was made using Jupyter Notebook.
